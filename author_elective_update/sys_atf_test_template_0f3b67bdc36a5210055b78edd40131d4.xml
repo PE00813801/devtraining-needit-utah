@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template">
+    <sys_atf_test_template action="DELETE">
+        <description/>
+        <name>Test</name>
+        <sys_class_name>sys_atf_test_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 10:52:59</sys_created_on>
+        <sys_id>0f3b67bdc36a5210055b78edd40131d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_template_0f3b67bdc36a5210055b78edd40131d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 10:52:59</sys_updated_on>
+        <template/>
+    </sys_atf_test_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>96f144d91b72b1149377eb9b2d4bcb7b</instance_id>
+        <instance_name>dev226433</instance_name>
+        <name>sys_atf_test_template_0f3b67bdc36a5210055b78edd40131d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template"><sys_atf_test_template action="INSERT_OR_UPDATE"><description/><name>Test</name><sys_class_name>sys_atf_test_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-19 10:52:59</sys_created_on><sys_id>0f3b67bdc36a5210055b78edd40131d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_template_0f3b67bdc36a5210055b78edd40131d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-19 10:52:59</sys_updated_on><template/></sys_atf_test_template></record_update>]]></payload>
+        <payload_hash>214389688</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>c585af75c36a5210055b78edd401314c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 10:52:59</sys_created_on>
+        <sys_id>cc4be37dc36a5210055b78edd4013123</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193de8ca4f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 10:52:59</sys_updated_on>
+        <type>Test Template</type>
+        <update_guid>c04be37d406a5210b2640047bd9f7223</update_guid>
+        <update_guid_history>c04be37d406a5210b2640047bd9f7223:214389688</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 10:53:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_template">sys_atf_test_template</sys_db_object>
+        <sys_id>0be12d221495410881fea0ff9165f701</sys_id>
+        <sys_metadata>0f3b67bdc36a5210055b78edd40131d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_template_0f3b67bdc36a5210055b78edd40131d4</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_template_0f3b67bdc36a5210055b78edd40131d4">cc4be37dc36a5210055b78edd4013123</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 10:53:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
